@@ -27,15 +27,8 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=%235C2D91)
 
 
-<a href="https://github.com/IsmailTalhaKalkan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmailTalhaKalkan&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailTalhaKalkan&theme=tokyonight&layout=compact" />
-</a>
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center"
-
 <a href="https://www.instagram.com/sumail.kalkan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sumail.kalkan-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ismail.talha.kalkan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ismail.talha.kalkan@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
