@@ -29,6 +29,5 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center"
-<a href="https://www.instagram.com/sumail.kalkan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sumail.kalkan-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ismail.talha.kalkan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ismail.talha.kalkan@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
